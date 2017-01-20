@@ -10,7 +10,8 @@
     tools:context="edu.up.cs371.lauritze17.sillyhello.MainActivity">
 
     <TextView
-        android:layout_width="400dp"
-        android:layout_height="100dp"
-        android:text="Do I really have to say 'Hello World!'?" />
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Goodbye Charisma"
+        android:textSize="60dp" />
 </RelativeLayout>
